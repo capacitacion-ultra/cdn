@@ -23,5 +23,5 @@ jobs:
           key: ${{ secrets.REMOTE_SRV_PRIV_KEY }}
           port: 22
           script: |
-            cd /home/ubuntu/micro-servicios/translated/file-server/json/dummy
+            cd /home/ubuntu/micro-servicios/translated/file-server
             ./update.sh
