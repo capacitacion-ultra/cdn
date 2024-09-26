@@ -1,2 +1,2 @@
 Templates for mail sender
-..OK
+..OK 2
